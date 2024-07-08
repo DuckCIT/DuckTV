@@ -1,7 +1,11 @@
 # DuckTV
 **Ứng dụng xem đài truyền hình miễn phí**
 
-> Phiên bản mới nhất 1.0 (09/07/2024)
+> Phiên bản mới nhất 1.0
+(09/07/2024)
+
+**Review**
+![Demo](images.gif)
 # Download
 [![Downloads](https://img.shields.io/badge/Phi%C3%AAn%20b%E1%BA%A3n-m%E1%BB%9Bi%20nh%E1%BA%A5t-brightgreen
 )](https://github.com/nguyentrongduck/DuckTV/releases/tag/v1.0)
